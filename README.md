@@ -5,6 +5,8 @@ I do have a particular interest in Nintendo homebrew stuff, but I like to work o
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=XorTroll)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XorTroll&layout=compact&theme=dark)](https://github.com/XorTroll)
+
 While all my work is freely available for everyone, if you happen to like it, it'd be really helpful if you considered sponsoring me here, or supporting me wherever you feel to!
 
 <p align="center">
